@@ -1,1 +1,1 @@
-# python-project-from-codsoft
+This file is to show the project of pythom language from codsoft
